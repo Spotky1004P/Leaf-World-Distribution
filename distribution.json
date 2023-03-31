@@ -541,6 +541,27 @@
             "url": "https://github.com/Spotky1004P/Leaf-World-Distribution/raw/main/servers/leafserver-1.19.2/forgemods/required/voicechat-forge-1.19.2-2.3.28.jar",
             "MD5": "d50859ce7d19a54d764566c1a330ce22"
           }
+        },
+        {
+          "id": "generated.library:OptiFine_1.19.2_HD_U_I1:0.0.0@jar",
+          "name": "OptiFine_1.19.2_HD_U_I1",
+          "type": "Library",
+          "artifact": {
+            "size": 6932845,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution/raw/main/servers/leafserver-1.19.2/libraries/OptiFine_1.19.2_HD_U_I1.jar",
+            "MD5": "23a9a9fa0a24bd214b868d06d2effe95"
+          }
+        },
+        {
+          "id": "ComplementaryShaders_v4.5.1.zip",
+          "name": "ComplementaryShaders_v4.5.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 3454049,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution/raw/main/servers/leafserver-1.19.2/files/shaderpacks/ComplementaryShaders_v4.5.1.zip",
+            "MD5": "ce667e249793b317b390c30d921c2492",
+            "path": "shaderpacks/ComplementaryShaders_v4.5.1.zip"
+          }
         }
       ]
     }
