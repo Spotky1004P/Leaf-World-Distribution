@@ -11,7 +11,7 @@
       "id": "leafserver-1.19.2",
       "name": "leafserver (Minecraft 1.19.2)",
       "description": "leafserver Running Minecraft 1.19.2 (Forge v43.2.7)",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Spotky1004P/Leaf-World-Launcher/main/app/assets/images/LoadingSeal.png",
       "version": "1.0.0",
       "address": "125.179.58.21",
       "minecraftVersion": "1.19.2",
