@@ -493,20 +493,6 @@
           }
         },
         {
-          "id": "net.optifine:optifine:1.19.2_HD_U_I1@jar",
-          "name": "OptiFine",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6932845,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution/raw/main/servers/leafserver-1.19.2/forgemods/optionaloff/OptiFine_1.19.2_HD_U_I1.jar",
-            "MD5": "23a9a9fa0a24bd214b868d06d2effe95"
-          },
-          "required": {
-            "value": false,
-            "def": false
-          }
-        },
-        {
           "id": "com.rolfmao:upgradedcore:1.19.2-4.1.0.1-release@jar",
           "name": "Upgraded Core",
           "type": "ForgeMod",
