@@ -105,16 +105,6 @@
               "subModules": []
             },
             {
-              "id": "generated.library:OptiFine_1.19.2_HD_U_I1:0.0.0@jar",
-              "name": "OptiFine_1.19.2_HD_U_I1",
-              "type": "Library",
-              "artifact": {
-                "size": 6932845,
-                "url": "https://github.com/Spotky1004P/Leaf-World-Distribution/raw/main/repo/lib/generated/library/OptiFine_1.19.2_HD_U_I1.jar",
-                "MD5": "23a9a9fa0a24bd214b868d06d2effe95"
-              }
-            },
-            {
               "id": "net.minecraft:client:1.19.2-20220805.130853:srg",
               "name": "Minecraft Forge (client srg)",
               "type": "Library",
@@ -530,6 +520,16 @@
             "size": 7846790,
             "url": "https://github.com/Spotky1004P/Leaf-World-Distribution/raw/main/servers/leafserver-1.19.2/forgemods/required/voicechat-forge-1.19.2-2.3.28.jar",
             "MD5": "d50859ce7d19a54d764566c1a330ce22"
+          }
+        },
+        {
+          "id": "generated.library:OptiFine_1.19.2_HD_U_I1:0.0.0@jar",
+          "name": "OptiFine_1.19.2_HD_U_I1",
+          "type": "Library",
+          "artifact": {
+            "size": 6932845,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution/raw/main/servers/leafserver-1.19.2/libraries/OptiFine_1.19.2_HD_U_I1.jar",
+            "MD5": "23a9a9fa0a24bd214b868d06d2effe95"
           }
         },
         {
