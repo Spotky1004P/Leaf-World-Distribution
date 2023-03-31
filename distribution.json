@@ -443,13 +443,13 @@
           }
         },
         {
-          "id": "com.mrcrayfish.furniture:cfm:7.0.0-pre34@jar",
+          "id": "com.mrcrayfish.furniture:cfm:7.0.0-pre35@jar",
           "name": "MrCrayfish's Furniture Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2213494,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution/raw/main/servers/leafserver-1.19.2/forgemods/required/cfm-7.0.0-pre34-1.19.jar",
-            "MD5": "dcc6c094465f0820599e41880589995e"
+            "size": 2209834,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution/raw/main/servers/leafserver-1.19.2/forgemods/required/cfm-7.0.0-pre35-1.19.2.jar",
+            "MD5": "cd3ceae9615012f62d84fa1af860a1b0"
           }
         },
         {
@@ -473,23 +473,23 @@
           }
         },
         {
-          "id": "mezz.jei:jei:11.6.0.1011@jar",
+          "id": "mezz.jei:jei:11.6.0.1013@jar",
           "name": "Just Enough Items",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1088959,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution/raw/main/servers/leafserver-1.19.2/forgemods/required/jei-1.19.2-forge-11.6.0.1011.jar",
-            "MD5": "25e4c4a21aaadff0a8e2fd7d12d7cfe1"
+            "size": 1089012,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution/raw/main/servers/leafserver-1.19.2/forgemods/required/jei-1.19.2-forge-11.6.0.1013.jar",
+            "MD5": "f882610bd9ec942cfce7f2b3f536243e"
           }
         },
         {
-          "id": "journeymap:journeymap:5.9.3@jar",
+          "id": "journeymap:journeymap:5.9.4@jar",
           "name": "Journeymap",
           "type": "ForgeMod",
           "artifact": {
-            "size": 7004284,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution/raw/main/servers/leafserver-1.19.2/forgemods/required/journeymap-1.19.2-5.9.3-forge.jar",
-            "MD5": "5e6bc67dc2e5f6535d09eca18f1a9f9c"
+            "size": 7006099,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution/raw/main/servers/leafserver-1.19.2/forgemods/required/journeymap-1.19.2-5.9.4-forge.jar",
+            "MD5": "7198008167de5ff6ad8c18db084c3bbf"
           }
         },
         {
@@ -507,23 +507,23 @@
           }
         },
         {
-          "id": "com.rolfmao:upgradedcore:1.19.2-4.1.0.0-release@jar",
+          "id": "com.rolfmao:upgradedcore:1.19.2-4.1.0.1-release@jar",
           "name": "Upgraded Core",
           "type": "ForgeMod",
           "artifact": {
-            "size": 41196,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution/raw/main/servers/leafserver-1.19.2/forgemods/required/upgradedcore-1.19.2-4.1.0.0-release.jar",
-            "MD5": "84b34a3b42ca63d0d1ba5977f816b361"
+            "size": 41516,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution/raw/main/servers/leafserver-1.19.2/forgemods/required/upgradedcore-1.19.2-4.1.0.1-release.jar",
+            "MD5": "f00fbe375eb27b3a7579983483a2fcfa"
           }
         },
         {
-          "id": "com.rolfmao:upgradednetherite:1.19.2-5.1.0.4-release@jar",
+          "id": "com.rolfmao:upgradednetherite:1.19.2-5.1.0.6-release@jar",
           "name": "Upgraded Netherite",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1247894,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution/raw/main/servers/leafserver-1.19.2/forgemods/required/upgradednetherite-1.19.2-5.1.0.4-release.jar",
-            "MD5": "4e1e21db791920e2ee57eee2fa0a5801"
+            "size": 1248100,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution/raw/main/servers/leafserver-1.19.2/forgemods/required/upgradednetherite-1.19.2-5.1.0.6-release.jar",
+            "MD5": "ee315f600d9bb118ac6abca8bd8bc0fd"
           }
         },
         {
