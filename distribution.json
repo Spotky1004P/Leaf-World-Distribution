@@ -2,25 +2,25 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "1090590115572744202",
-    "smallImageText": "리프 월드",
-    "smallImageKey": "logo"
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
   },
   "servers": [
     {
       "id": "leafserver-1.19.2",
       "name": "leafserver (Minecraft 1.19.2)",
       "description": "leafserver Running Minecraft 1.19.2 (Forge v43.2.7)",
-      "icon": "https://raw.githubusercontent.com/Spotky1004P/Leaf-World-Launcher/main/app/assets/images/LoadingSeal.png",
+      "icon": null,
       "version": "1.0.0",
-      "address": "125.179.58.21",
+      "address": "localhost:25565",
       "minecraftVersion": "1.19.2",
       "discord": {
-        "shortId": "1.19.2",
-        "largeImageText": "1.19.2",
-        "largeImageKey": "logo"
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": true,
+      "mainServer": false,
       "autoconnect": false,
       "modules": [
         {
@@ -523,13 +523,13 @@
           }
         },
         {
-          "id": "generated.library:OptiFine_1.19.2_HD_U_I1:0.0.0@jar",
-          "name": "OptiFine_1.19.2_HD_U_I1",
+          "id": "generated.library:OptiFine_1.19.2_HD_U_I1_MOD:0.0.0@jar",
+          "name": "OptiFine_1.19.2_HD_U_I1_MOD",
           "type": "Library",
           "artifact": {
-            "size": 6932845,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution/raw/main/servers/leafserver-1.19.2/libraries/OptiFine_1.19.2_HD_U_I1.jar",
-            "MD5": "23a9a9fa0a24bd214b868d06d2effe95"
+            "size": 6430507,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution/raw/main/servers/leafserver-1.19.2/libraries/OptiFine_1.19.2_HD_U_I1_MOD.jar",
+            "MD5": "c5b6b67f267699feea5f03d651b31b87"
           }
         },
         {
